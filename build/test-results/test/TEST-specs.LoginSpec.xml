@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="specs.LoginSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-02-26T16:13:47" hostname="ranuj-z01" time="21.899">
+  <properties/>
+  <testcase name="valid Credentails" classname="specs.LoginSpec" time="10.985"/>
+  <testcase name="Invalid Credentails[0]" classname="specs.LoginSpec" time="2.553"/>
+  <testcase name="Invalid Credentails[1]" classname="specs.LoginSpec" time="2.51"/>
+  <testcase name="Invalid Credentails[2]" classname="specs.LoginSpec" time="2.675"/>
+  <testcase name="Invalid Credentails[3]" classname="specs.LoginSpec" time="3.172"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 35967
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Feb 26, 2020 9:43:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1582733632.803][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733632.905][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733633.007][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733633.289][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733633.390][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733633.604][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733633.705][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733633.807][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733643.606][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733643.819][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733646.206][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733646.379][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>

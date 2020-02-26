@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="specs.SearchSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-02-26T16:14:09" hostname="ranuj-z01" time="13.275">
+  <properties/>
+  <testcase name="Search artifacts in the artifactor[0]" classname="specs.SearchSpec" time="6.964"/>
+  <testcase name="Search artifacts in the artifactor[1]" classname="specs.SearchSpec" time="6.31"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[1582733649.371][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733656.543][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582733656.710][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
